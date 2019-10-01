@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\otc91022\\source\\repos\\AuditoriaWebApi\\AuditoriaTests\\AuditoriaTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\otc91022\\source\\repos\\AuditoriaWebApi\\AuditoriaTests\\AuditoriaTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\otc91022\\source\\repos\\AuditoriaWebApi\\AuditoriaTests\\AuditoriaTests.csproj",
+        "projectName": "AuditoriaTests",
+        "projectPath": "C:\\Users\\otc91022\\source\\repos\\AuditoriaWebApi\\AuditoriaTests\\AuditoriaTests.csproj",
+        "packagesPath": "C:\\Users\\otc91022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\otc91022\\source\\repos\\AuditoriaWebApi\\AuditoriaTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\otc91022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

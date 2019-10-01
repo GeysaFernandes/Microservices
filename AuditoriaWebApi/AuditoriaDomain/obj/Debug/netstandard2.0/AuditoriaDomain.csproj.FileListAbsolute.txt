@@ -1,0 +1,9 @@
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\bin\Debug\netstandard2.0\AuditoriaDomain.deps.json
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\bin\Debug\netstandard2.0\AuditoriaDomain.dll
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\bin\Debug\netstandard2.0\AuditoriaDomain.pdb
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.csprojAssemblyReference.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.csproj.CoreCompileInputs.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.AssemblyInfoInputs.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.AssemblyInfo.cs
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.dll
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaDomain\obj\Debug\netstandard2.0\AuditoriaDomain.pdb

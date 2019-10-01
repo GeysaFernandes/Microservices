@@ -1,0 +1,9 @@
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\bin\Debug\netstandard2.0\AuditoriaTests.deps.json
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\bin\Debug\netstandard2.0\AuditoriaTests.dll
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\bin\Debug\netstandard2.0\AuditoriaTests.pdb
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.csprojAssemblyReference.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.csproj.CoreCompileInputs.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.AssemblyInfoInputs.cache
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.AssemblyInfo.cs
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.dll
+C:\Users\otc91022\source\repos\AuditoriaWebApi\AuditoriaTests\obj\Debug\netstandard2.0\AuditoriaTests.pdb
